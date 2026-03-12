@@ -1,0 +1,15 @@
+torch
+torchvision
+pyautogen
+kafka-python
+transformers
+peft
+bitsandbytes
+scikit-learn
+pandas
+numpy
+matplotlib
+gradio
+jupyter
+keras
+tensorflow
